@@ -20,7 +20,7 @@
 </p>
 
 
-### Listening to **Spotify** <img align="center" src="https://i.imgur.com/mKBl6b0.png" width="29px">
+### Listening to **Spotify** <img align="center" src="https://i.imgur.com/mKBl6b0.png" width="20px">
 
 <img src="https://spotify-azure.vercel.app/api/spotify-playing" alt="Now Playing" width="350" />
 
