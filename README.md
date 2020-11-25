@@ -1,6 +1,8 @@
 <h1 align="center">Konnichiwa!~ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 </h1>
-<h3 align="center">I can resist anything except temptation and am enough of an artist to draw freely upon my imagination.</h3>
+
+## About Me 💬
+### - I'm a Icecream & Music lover, Fun learner/Developer and Artificial Intelligence Enthusiastcan who can resist anything except temptation and am enough of an artist to draw freely upon my imagination.
 
 ### Learning:
 - ✨ Data Science
