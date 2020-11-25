@@ -4,14 +4,14 @@
 ## About Me 💬
 ### - I'm a Icecream & Music lover, Fun learner/Developer and Artificial Intelligence Enthusiastcan who can resist anything except temptation and am enough of an artist to draw freely upon my imagination.
 
-### Learning:
-- ✨ Data Science
+## Learning:
+- ✨ Data Science and Analysis 
 - ✨ Generative Adversarial Networks
 - ✨ Web Physics Simulation
 - ✨ Python & Typescript
 - ✨ Financial Markets
 
-### Hobbies: 
+## Hobbies: 
 - ✨ Gaming, etc.
 - ✨ Watching Anime
 - ✨ Reading Books
