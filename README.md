@@ -11,7 +11,7 @@
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing.sc0ut777.vercel.app
-/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
 
 
 <h3 align="left">Languages and Tools:</h3>
