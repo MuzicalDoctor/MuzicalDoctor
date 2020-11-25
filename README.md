@@ -2,18 +2,18 @@
 , It's me Nιиjα</h1>
 <h3 align="center">I'm a open minded silly dev</h3>
 
-### - Learning :
+### Learning:
 - ✨ Data Science
 - ✨ Generative Adversarial Networks
 - ✨ Web Physics Simulation
 - ✨ Python & Typescript
 - ✨ Financial Markets
 
-### - Hobbies : 
+### Hobbies: 
 - ✨ Gaming, etc.
-- ✨ Anime
-- ✨ Reading Novels
-- ✨ Football, MTB & Vibes
+- ✨ Watching Anime
+- ✨ Reading Books
+- ✨ Football, MTB & Musical Vibes
 
 
 <h3 align="left">Connect with me:</h3>
