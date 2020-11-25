@@ -10,5 +10,5 @@
 
 ### Spotify Playing 🎧
 
-<img src="https://spotify-now-playing-five-black.vercel.app/api/spotify-playing" alt="Now Playing" width="350" />
+<img src="https://spotify-azure.vercel.app/api/spotify-playing" alt="Now Playing" width="350" />
 
