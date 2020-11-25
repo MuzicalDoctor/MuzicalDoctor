@@ -1,5 +1,5 @@
-<h1 align="center">Hulo there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-, It's me Nιиjα</h1>
+<h1 align="center">Konnichiwa!~ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+</h1>
 <h3 align="center">I'm a open minded silly dev</h3>
 
 ### Learning:
