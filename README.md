@@ -9,7 +9,7 @@
 - ⚡ Fun fact **i love music**
 
 
-### Spotify Playing 🎧 <img src="https://cdn.discordapp.com/emojis/732974958451359796.png" width="29px">
+Listening to **Spotify** <img src="https://cdn.discordapp.com/emojis/732974958451359796.png" width="29px">
 
 <img src="https://spotify-azure.vercel.app/api/spotify-playing" alt="Now Playing" width="350" />
 
