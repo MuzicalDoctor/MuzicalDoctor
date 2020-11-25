@@ -2,6 +2,10 @@
 , It's me Nιиjα</h1>
 <h3 align="center">I'm a open minded silly dev</h3>
 
+<a href="https://dev.to/sc0ut777">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nιиjα's DEV Profile" height="30" width="30">
+</a>
+
 - 🔭 currently working on making [Discord bot](https://discord.gg/JsaCacJ)
 
 - 🌱 currently learning **Python, Typescript etc.**
