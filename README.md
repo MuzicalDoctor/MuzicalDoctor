@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Ninja's Discord" width="29px" src="https://discord.gg/JsaCacJ" />
+<a href="https://discord.gg/JsaCacJ">
+  <img align="left" alt="Nιиjα's Discord" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://codepen.io/sc0ut777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sc0ut777" height="30" width="40" /></a>
 <a href="https://dev.to/sc0ut777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sc0ut777" height="30" width="40" /></a>
