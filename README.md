@@ -9,7 +9,7 @@
 - ⚡ Fun fact **i love music**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://discord.gg/JsaCacJ">
   <img align="left" alt="Nιиjα's Discord" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
