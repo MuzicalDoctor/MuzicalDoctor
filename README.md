@@ -2,7 +2,7 @@
 </h1>
 
 ## About Me 💬
-### - I'm a Icecream & Music lover, Fun learner/Developer and Artificial Intelligence Enthusiastcan who can resist anything except temptation and am enough of an artist to draw freely upon my imagination.
+### • I'm an open minded Icecream lover and Music addict, Fun learner/Developer and Artificial Intelligence Enthusiastcan who can resist anything except temptation and am enough of an artist to draw freely upon my imagination.
 
 ## Learning:
 - ✨ Data Science and Analysis 
