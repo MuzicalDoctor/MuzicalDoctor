@@ -2,11 +2,19 @@
 , It's me Nιиjα</h1>
 <h3 align="center">I'm a open minded silly dev</h3>
 
-- 🔭 currently working on making [Discord bot](https://discord.gg/JsaCacJ)
+### - Learning :
+- ✨ Data Science
+- ✨ Generative Adversarial Networks
+- ✨ Web Physics Simulation
+- ✨ Python & Typescript
+- ✨ Financial Markets
 
-- 🌱 currently learning **Python, Typescript etc.**
+### - Hobbies : 
+- ✨ Gaming, etc.
+- ✨ Anime
+- ✨ Reading Novels
+- ✨ Football, MTB & Vibes
 
-- ⚡ Fun fact **i love music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
