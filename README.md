@@ -1,6 +1,6 @@
 <h1 align="center">Hulo there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 , It's me Nιиjα</h1>
-<h3 align="center">I'm a Open minded silly dev</h3>
+<h3 align="center">I'm a open minded silly dev</h3>
 
 - 🔭 currently working on making [Discord bot](https://discord.gg/JsaCacJ)
 
