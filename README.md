@@ -45,6 +45,3 @@
 <!-- <img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />  -->
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sc0ut777&show_icons=true&theme=tokyonight&title_color=ff00a6&text_color=5809eb&bg_color=00f7c2&locale=en" alt="Sc0ut777" /></p>
