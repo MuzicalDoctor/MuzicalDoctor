@@ -47,4 +47,4 @@
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sc0ut777&show_icons=true&theme=tokyonight&title_color=ff00a6&text_color=5809eb&bg_color=00f7c2&locale=en" alt="sc0ut777" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sc0ut777&show_icons=true&theme=tokyonight&title_color=ff00a6&text_color=5809eb&bg_color=00f7c2&locale=en" alt="Sc0ut777" /></p>
