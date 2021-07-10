@@ -15,7 +15,7 @@
 - ✨ Gaming, etc.
 - ✨ Watching Anime
 - ✨ Reading Books
-- ✨ Football, MTB & Musical Vibes
+- ✨ Football, MTB & Good vibes
 
 
 <h2 align="left">Connect with me:</h2>
