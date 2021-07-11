@@ -11,7 +11,7 @@
 ## Learning:
 - ✨ Data Science and Analysis 
 - ✨ Generative Adversarial Networks
-- ✨ Web Physics Simulation oop
+- ✨ Web Physics Simulation 
 - ✨ Python & Typescript
 - ✨ Financial Markets
 
