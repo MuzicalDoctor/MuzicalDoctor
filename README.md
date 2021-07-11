@@ -24,13 +24,13 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://discord.gg/JsaCacJ" target= "blank"><img align="center" alt="Nιиjα's Discord" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://discord.gg/" target= "blank"><img align="center" alt="Discord" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://codepen.io/sc0ut777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sc0ut777" height="30" width="40" /></a>
-<a href="https://dev.to/sc0ut777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sc0ut777" height="30" width="40" /></a>
-<a href="https://twitter.com/sc0ut777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sc0ut777" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sc0ut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sc0ut" height="30" width="40" /></a>
-<a href="https://dribbble.com/sc0ut69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sc0ut69" height="30" width="40" /></a>
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sc0ut" height="30" width="40" /></a>
+<a href="https://dev.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sc0ut" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sc0ut" height="30" width="40" /></a>
+<a href="https://codesandbox.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sc0ut" height="30" width="40" /></a>
+<a href="https://dribbble.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sc0ut" height="30" width="40" /></a>
 </p>
 
 
