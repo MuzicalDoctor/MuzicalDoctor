@@ -6,7 +6,7 @@
 </h1>
 
 ## About Me 💬
-### • I'm an open minded Icecream lover and Music addict, Fun learner/Developer and Artificial Intelligence Enthusiastcan who can resist anything except temptation and am enough of an artist to draw freely upon my imagination.
+### • I'm a open minded Icecream lover and Music addict, Fun learner/Developer and Artificial Intelligence enthusiast who can resist anything except temptation and am enough of an artist to draw freely upon my imagination.
 
 ## Learning:
 - ✨ Data Science and Analysis 
@@ -17,9 +17,9 @@
 
 ## Hobbies: 
 - ✨ Gaming, etc.
-- ✨ Watching Anime
-- ✨ Reading Books
-- ✨ Football, MTB & Good vibes
+- ✨ Watching Movies
+- ✨ Reading Novels
+- ✨ Football, MTB & Swimming 
 
 
 <h2 align="left">Connect with me:</h2>
